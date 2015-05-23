@@ -3,7 +3,7 @@
   "description": "Promised DI RESTfull controller for express",
   "author": "Ezequias Dinella <ezequias.net@gmail.com>",
   "repository": "git://github.com/edinella/troller.git",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "main": "lib/Troller.js",
   "dependencies": {
